@@ -48,7 +48,7 @@ function JoinUs() {
                             <li>Fill the google form</li>
                             <li>Reach out to the coordinators and know about the further steps</li>
                         </ul>
-                        <a href="https://drive.google.com/file/d/1FCexkICzrb_usDcX78LF82XJ9DH5x3mw/view?usp=sharing
+                        <a href="https://drive.google.com/file/d/1jGkJcz0uN_7_S5uO8c60M9dlhet2l9Ex/view?usp=sharing
                                             "><button className="plan-choose">Know More</button></a>
                     </div>
                 </div>
@@ -63,7 +63,7 @@ function JoinUs() {
                             </li>
                             <li>Get the required exposure through industry visits and attending conferences around the globe</li>
                         </ul>
-                        <a href="https://drive.google.com/file/d/1FCexkICzrb_usDcX78LF82XJ9DH5x3mw/view?usp=sharing
+                        <a href="https://drive.google.com/file/d/1TSXNezswwZZqo_aV_6RNgylWKX2sdrnr/view?usp=sharing
                                             "><button className="plan-choose">Know More</button></a>
                     </div>
                 </div>
